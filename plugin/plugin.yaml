@@ -1,0 +1,3 @@
+name: weather-api
+version: "1.0.0"
+description: Weather tools backed by a local FastAPI service
